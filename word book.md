@@ -1,0 +1,98 @@
+# CR
+- resolve
+    - 解决
+- modify
+    - 修改
+- accept
+    - 接受、同意
+- Resolution
+    - 分辨率、解决、决心
+- Solution
+    - 解决方案
+- Progress
+    - 进展
+- Severity
+    - 严重性
+- Severe
+    - 严重的
+    - Severe Issue Escalation
+        - 严重的问题逐步升级
+    - Severe Issue Impact
+        - 严重的问题影响
+    - Severe Issue BG Owner
+    - Severe Issue PIC
+- Source
+    - 来源
+- Priority
+    - 优先级
+- Urgent
+    - 紧急的
+- always
+    - 总是，一直，永远
+- Assignee
+    - 代理人，受让人
+- Assigned
+    - 已分配的，已指派
+- Agent
+    - 代理商，代理人
+- ODM
+    - Original Design Manufacturer
+    - 原始设计制造商
+- OEM
+    - Original Equipment Manufacturer
+    - 原始设备制造商
+- OBM
+    - Original Brand Manufacturer
+    - 原始品牌制造商OEM，又叫定牌生产和贴牌生产
+- Annex
+    - 附件、附录
+- Attach
+    - 附加、附属、附上
+- Noise
+    - 噪音、噪声
+- Simulator
+    - 模拟器、仿真器
+- Exception 
+    - 异常、例外
+- Apply
+    - 申请
+- Respondent
+    - 被申请人，被调查对象
+- Fill
+    - 填满
+- Reference
+    - 参考
+- Referenced
+    - 引用
+- Milestone
+    - 里程碑
+- Mastership
+    - 主人身份，主控权
+- Country/Region
+    - 国家/地区
+- Verifier
+    - 验证者
+- Verify Date
+    - 验证日期
+- Inspector
+    - 检查员
+- Inspect Date
+    - 检查日期
+- Inspect Progress
+    - 检查进展
+- Reject
+    - 拒绝
+- Reproduce
+    - 复现
+- Customization
+    - 定制
+- Compare
+    - 比较
+- effort
+    - 努力，或工作量
+- Belonging
+    - 归属
+- subscribe
+    - 订阅
+- unsubscribe
+    - 退订
