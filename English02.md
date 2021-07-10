@@ -1,1 +1,155 @@
-2
+- Internal Solution
+    - 内部解决方案
+- Final solution
+    - 最终解决方案
+- Affected other module
+    - 影响其它模块
+- Working Hours
+    - 工作时间
+- Solution Category
+    - 方案分类，类别
+- Solved SW Version
+    - 解决了的软件版本
+- Bug Inserted Version
+    - 插入错误版本
+- Bug Reason
+    - 错误bug原因
+- Customer CR Quality
+    - 客户提的CR质量怎么样
+- Has Affected Modules
+    - 已经影响到的模块
+- solved-by-other-CR
+    - 通过其它CR解决的
+- Root cause
+    - 根本原因
+- Integration(Related System Info)
+    - 集成（有关的系统信息）
+- Estimate Date
+    - 估计日期
+- Expected Date
+    - 预计日期
+- Critical Announce Date
+    - 关键公布日期
+- Customer Company
+    - 客户公司
+- QA Specific feature
+    - QA特定功能
+- Repeat Ratio
+    - 重复概率
+- Repeat Steps
+    - 复现步骤
+- Chipset Model
+    - 芯片组模型
+- Additional Information
+    - 附加信息
+- Standard
+    - 标准、规格
+- Failure type
+    - 故障类型
+- Issue judge
+    - 问题判断
+- Is side effect?
+    - 有副作用吗?
+- Apply Initial Tool
+    - 应用初始工具
+- Exclude Review
+    - 排除审查
+- Revise Priority
+    - 修订修改优先权
+- Patch verify information
+    - patch验证信息
+- Specific Technical Field Label
+    - 具体技术领域标签
+- Specific Technical Field Review Status
+    - 具体技术领域评审状态
+- Project Creator Loginname
+    - 项目创建者的登录名字（就是帐号）
+- Project Creator Fullname
+    - 项目创建者的全名（就是姓名）
+- Patch Release Date
+    - patch发布日期
+- Special Request
+    - 特殊要求
+- Dependency List
+    - 依赖项列表
+- Whether do same action on Silent Copy Crs?
+    - 是否对没有记载的CR做相同的操作?
+- All listed CRs will be released to customer
+    - 所有列出的CR都将发布给客户
+- Current CR depends on the listed CR(s) because of common files (including Virtual CRs)
+    - 由于公共文件(包括虚拟CR)，当前CR依赖于列出的CR(s)
+- Collects changelists, submitted by other CR(s), without any check-in behaviors 
+    - 收集由其他CR(s)提交的变更列表，没有任何签入行为
+- Submit Date
+    - 提交日期
+- Security Level
+    - 安全级别
+- Dispatch Rule
+    - 调度派遣规则
+- Sync Cr Dispatcher
+    - 同步CR调度员
+- Reassign Comment
+    - 重新分配的评论注释
+- Stay Customer Time Percent
+    - 客户停留时间百分比
+- Also Occur on Turnkey
+    - 同样发生在Trunkey
+- Need to Verify on Turnkey
+    - 需要在Turnkey上验证
+- Valid Issue
+    - 有效的问题
+- Related CR List
+    - 有关CR List
+- Indirect Customer Project
+    - 间接的客户项目
+- Extra system owner
+    - 额外的system owner
+- Customer Contact
+    - 客户联系人
+- Daily Review Type
+    - 每日或日常检查类型
+- Mark Date
+    - 标记日期
+- Open Days
+    - 开放天数
+- Note Pending Days
+    - 注意挂起天数
+- Please fill the reason why ECN is necessary or not
+    - 请填写ECN是否需要的原因
+- Manager Approval
+    - 经理批准
+- switch to Aspera Download 
+    - 切换到Aspera下载
+- Field name
+    - 字段名
+    - 可能有：
+    - Assignee、Owner、Coworkers(添加合作同事)
+    - Assignee_Name（指派人）
+    - Assignee_Dept（指派部门）
+    - Dispatch_Count（指派计数）
+- Old value brief
+    - 旧的简短值（一般是旧owner）
+- New value brief
+    - 新的简短值（一般是新owner）
+- Issue Behavior
+    - 问题行为反应
+- Performance Issue
+    - 性能问题
+- Instrument Type
+    - 仪器类型
+- Compile Option
+    - 编译选项
+- Known Issue Analysis
+    - 已知问题分析
+- Bug Fail Procedure
+    - bug错误的过程
+- Signal variation/Weak signal?
+    - 信号变化/微弱信息
+- Already have TC?
+    - 已经有TC了
+- Log analysis improve?
+    - log分析改善情况
+- How to cover this scenario?
+    - 如何覆盖这个场景
+- Proposed PDCA Test Case
+    - 建议的PDCA测试用例
